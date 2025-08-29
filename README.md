@@ -40,4 +40,6 @@
 - 掘金：[阿杆的主页](https://juejin.cn/user/4182956056773160/posts)
 - 微信：sticki6（添加时请备注来意）
 
-微信交流群：加我微信拉你进群 `sticki6`，备注 **简历**
+微信交流群：
+
+<img alt="微信交流群" height="300" src="./image/wechat_group.jpg"/>
